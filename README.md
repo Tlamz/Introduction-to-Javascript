@@ -1,0 +1,1 @@
+#Introduction to JS: Print name, height and country.
